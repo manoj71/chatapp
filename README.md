@@ -1,6 +1,6 @@
 # chatapp
 
-A new Flutter project.
+A multi-user Chat App implemented in Flutter. Different users can signin or register and chat with one another in a group chat. Users can also send images.
 
 ## Getting Started
 
